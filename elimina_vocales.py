@@ -8,6 +8,7 @@ def procesa(texto):
     return texto
 texto="Viajaremos a Oviedo, Alicante o a Bilbao."
 print(procesa(texto))
+
 def procesa2(texto):
     texto=texto.replace('a','')
     texto=texto.replace('e','')
