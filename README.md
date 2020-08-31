@@ -9,3 +9,6 @@ Comenzaremos desde cero en Python y abarcaremos tres bloques:
 2. Programación Orientada a Objetos (POO) y librerías
 3. Aplicaciones actuariales y financieras
 
+## Páginas externas para aprender Python
+. https://www.w3schools.com/python
+. https://www.mclibre.org/consultar/python
