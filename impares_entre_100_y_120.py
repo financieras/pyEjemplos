@@ -2,8 +2,8 @@ lista=[] #Generar números impares entre 100 y 120   #Método 1
 for i in range(101,120,2):
     lista.append(i)
 print(lista)
-lista=[]
-i=101                                               #Método 2
+lista=[]                                            #Método 2
+i=101
 while i<120:
     lista.append(i)
     i=i+2
