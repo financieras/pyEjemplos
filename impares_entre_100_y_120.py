@@ -14,4 +14,4 @@ for i in range(100,120):
         lista.append(i)
 print(lista)
 print([i for i in range(101,120,2)])                #Método 4
-[print(i) for i in range(101,120) if i%2==0]        #Método 5
+[print(i) for i in range(101,120) if i%2!=0]        #Método 5
