@@ -1,0 +1,2 @@
+# Comparar varias parejas de números
+Pedir al usuario dos números y decir cuál es el mayor, el menor o si son iguales. Seguir pidiendo números hasta que se introduzca algún valor negativo o que no sea numérico.

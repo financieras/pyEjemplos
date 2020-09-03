@@ -1,0 +1,2 @@
+# ¿Está el número en la lista?
+Crear un programa que pida al usuario un número entero entre 0 y 9, ambos incluidos, y que repita la petición si el número indicado no está en ese rango. Luego debe decir si el número se encuentra en la lista de números [1,3,9].

@@ -1,0 +1,2 @@
+# Media de una serie de números
+Solicitar al usuario que introduzca números hasta que se llegue a introducir uno negativo, lo cual interrumpirá las peticiones. Finalmente mostrar en pantalla la suma y la media de los números introducidos.

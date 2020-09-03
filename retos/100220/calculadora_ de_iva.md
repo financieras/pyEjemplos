@@ -1,0 +1,2 @@
+# Calculadora de IVA
+Programar dos casos para el cálculo del IVA (Impuesto sobre el Valor Añadido). El caso A calcula el precio con IVA dados el precio base y el porcentaje de IVA. El caso B calcula el precio base dados el precio con IVA y el porcentaje de IVA.

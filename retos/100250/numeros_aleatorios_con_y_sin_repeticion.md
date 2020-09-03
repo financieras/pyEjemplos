@@ -1,0 +1,2 @@
+# Números aleatorios con y sin repetición
+Generar dos listas de 10 elementos cada una, con números enteros, aleatorios, entre 1 y 20, donde en una de ellas se pueden llegar a repetir y en la otra no se admiten repeticiones. Generar una tercera lista con todos los elementos que se repitan en ellas, pero no debe repetirse ningún elemento en la nueva lista.

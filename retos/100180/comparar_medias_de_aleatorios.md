@@ -1,0 +1,2 @@
+# Comparar medias de aleatorios
+Generar 12 números aleatorios entre 0 y 100 y calcular su media. Generar otros 12 números aleatorios entre 0 y 100 y calcular su media. Decir cuál de las dos medias ha resultado mayor, si la primera o la segunda.
