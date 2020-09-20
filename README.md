@@ -12,3 +12,7 @@ Comenzaremos desde cero en Python y abarcaremos tres bloques:
 ## Páginas externas para aprender Python
 - https://www.w3schools.com/python
 - https://www.mclibre.org/consultar/python
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/financieras/python_ejemplos)](https://repl.it/github/financieras/python_ejemplos)
