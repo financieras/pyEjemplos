@@ -33,3 +33,4 @@ for objeto in objetos:                 #recorremos todos los elementos de la lis
         objetos.remove(objeto)         #quitamos el último elemento añadido de la lista. Así la lista se ira quedando solo con los elementos que caben
 print(objetos)                         #imprimimos la lista corta que contiene solo los elementos que caben en la maleta, los otros se han ido quitando
 print(peso)                            #imprimimos el peso de los objetos que caben en la maleta. Este será el peso total de la maleta que no excede el pesoMax
+print("falta para llenar la maleta {} gramos.".format(pesoMax-peso))
