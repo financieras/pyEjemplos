@@ -1,4 +1,4 @@
-# pythonfinanciero
+# Ejemplos para aprender Python
 
 Repositorio que contiene los **ejemplos** utilizados en el curso de Python Financiero.
 
