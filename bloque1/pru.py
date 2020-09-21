@@ -1,4 +1,4 @@
 #archivo para hacer pruebas
-mi_rango=range(4)
-print(mi_rango)
-print(list(mi_rango))
+palabra="radar"
+palabra=palabra[1:-1]
+print(palabra)
