@@ -8,3 +8,4 @@ def anagrama(cadena1,cadena2):
 palabra1='Roma'
 palabra2='amor'
 print("¿Son anagrama {} y {}?: ".format(palabra1,palabra2),anagrama(palabra1,palabra2))
+
